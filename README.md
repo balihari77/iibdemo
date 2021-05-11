@@ -30,6 +30,13 @@ CONFIGURATION
  * This application user three nodes 'HTTP Input Node, Compute Node, HTTP Reply Node' connected in the following way Out-In-Out-In.
  * Properties for HTTP Input Node: -Basic- : path suffix for URL - /test
                                  : -Input Message Parsing- : Message Domain - XMLNSC.
+                                 
+
+PROJECT INTERCHANGE FILE
+------------------------
+
+* PI file is under the folder Project Interchange folder as xml-to-json.zip
+
                                
 TROUBLESHOOTING
 ---------------
