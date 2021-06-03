@@ -21,7 +21,7 @@ REQUIREMENTS
 This module requires the following software:
 
 1) IBM Integration Toolkit
-2) Postman (recommended)
+2) Any API Testing App (Postman Recommended)
 
 
 CONFIGURATION
